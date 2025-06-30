@@ -1,4 +1,4 @@
-🧠 AI Text Summarizer
+# AI Text Summarizer
 
 A lightweight Python-based desktop application that condenses lengthy content into 2–3 key sentences using Natural Language Processing (NLP).
 
